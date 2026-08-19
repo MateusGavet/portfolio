@@ -19,14 +19,3 @@ Dev FullStack Portfolio — projetos, skills e experiência.
 | G-Force Telemetry | Python, ctypes, Tkinter | Desktop |
 | Ranking & Eventos | JavaScript, HTML, CSS | Frontend |
 
-## Como executar localmente
-
-```bash
-git clone https://github.com/MateusGavet/portfolio.git
-cd portfolio
-# Abrir index.html no navegador
-```
-
-## Licença
-
-MIT
